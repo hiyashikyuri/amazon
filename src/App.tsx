@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Header from './Header';
+require('dotenv').config();
 
 const App = () => {
   return (
